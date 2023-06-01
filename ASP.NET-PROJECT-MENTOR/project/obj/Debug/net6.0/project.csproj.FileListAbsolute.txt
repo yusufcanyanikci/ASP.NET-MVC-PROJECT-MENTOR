@@ -1,0 +1,109 @@
+D:\Web tasarım- ASP.NET\mentor_ASP\project\bin\Debug\net6.0\appsettings.Development.json
+D:\Web tasarım- ASP.NET\mentor_ASP\project\bin\Debug\net6.0\appsettings.json
+D:\Web tasarım- ASP.NET\mentor_ASP\project\bin\Debug\net6.0\project.staticwebassets.runtime.json
+D:\Web tasarım- ASP.NET\mentor_ASP\project\bin\Debug\net6.0\project.exe
+D:\Web tasarım- ASP.NET\mentor_ASP\project\bin\Debug\net6.0\project.deps.json
+D:\Web tasarım- ASP.NET\mentor_ASP\project\bin\Debug\net6.0\project.runtimeconfig.json
+D:\Web tasarım- ASP.NET\mentor_ASP\project\bin\Debug\net6.0\project.dll
+D:\Web tasarım- ASP.NET\mentor_ASP\project\bin\Debug\net6.0\project.pdb
+D:\Web tasarım- ASP.NET\mentor_ASP\project\obj\Debug\net6.0\project.csproj.AssemblyReference.cache
+D:\Web tasarım- ASP.NET\mentor_ASP\project\obj\Debug\net6.0\project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web tasarım- ASP.NET\mentor_ASP\project\obj\Debug\net6.0\project.AssemblyInfoInputs.cache
+D:\Web tasarım- ASP.NET\mentor_ASP\project\obj\Debug\net6.0\project.AssemblyInfo.cs
+D:\Web tasarım- ASP.NET\mentor_ASP\project\obj\Debug\net6.0\project.csproj.CoreCompileInputs.cache
+D:\Web tasarım- ASP.NET\mentor_ASP\project\obj\Debug\net6.0\project.MvcApplicationPartsAssemblyInfo.cache
+D:\Web tasarım- ASP.NET\mentor_ASP\project\obj\Debug\net6.0\project.RazorAssemblyInfo.cache
+D:\Web tasarım- ASP.NET\mentor_ASP\project\obj\Debug\net6.0\project.RazorAssemblyInfo.cs
+D:\Web tasarım- ASP.NET\mentor_ASP\project\obj\Debug\net6.0\staticwebassets.build.json
+D:\Web tasarım- ASP.NET\mentor_ASP\project\obj\Debug\net6.0\staticwebassets.development.json
+D:\Web tasarım- ASP.NET\mentor_ASP\project\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Web tasarım- ASP.NET\mentor_ASP\project\obj\Debug\net6.0\scopedcss\bundle\project.styles.css
+D:\Web tasarım- ASP.NET\mentor_ASP\project\obj\Debug\net6.0\scopedcss\projectbundle\project.bundle.scp.css
+D:\Web tasarım- ASP.NET\mentor_ASP\project\obj\Debug\net6.0\project.dll
+D:\Web tasarım- ASP.NET\mentor_ASP\project\obj\Debug\net6.0\refint\project.dll
+D:\Web tasarım- ASP.NET\mentor_ASP\project\obj\Debug\net6.0\project.pdb
+D:\Web tasarım- ASP.NET\mentor_ASP\project\obj\Debug\net6.0\project.genruntimeconfig.cache
+D:\Web tasarım- ASP.NET\mentor_ASP\project\obj\Debug\net6.0\ref\project.dll
+E:\ardaslan\mentor_ASP\project\bin\Debug\net6.0\appsettings.Development.json
+E:\ardaslan\mentor_ASP\project\bin\Debug\net6.0\appsettings.json
+E:\ardaslan\mentor_ASP\project\bin\Debug\net6.0\project.staticwebassets.runtime.json
+E:\ardaslan\mentor_ASP\project\bin\Debug\net6.0\project.exe
+E:\ardaslan\mentor_ASP\project\bin\Debug\net6.0\project.deps.json
+E:\ardaslan\mentor_ASP\project\bin\Debug\net6.0\project.runtimeconfig.json
+E:\ardaslan\mentor_ASP\project\bin\Debug\net6.0\project.dll
+E:\ardaslan\mentor_ASP\project\bin\Debug\net6.0\project.pdb
+E:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\project.csproj.AssemblyReference.cache
+E:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\project.GeneratedMSBuildEditorConfig.editorconfig
+E:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\project.AssemblyInfoInputs.cache
+E:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\project.AssemblyInfo.cs
+E:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\project.csproj.CoreCompileInputs.cache
+E:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\project.MvcApplicationPartsAssemblyInfo.cache
+E:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\project.RazorAssemblyInfo.cache
+E:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\project.RazorAssemblyInfo.cs
+E:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\staticwebassets.build.json
+E:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\staticwebassets.development.json
+E:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\scopedcss\bundle\project.styles.css
+E:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\scopedcss\projectbundle\project.bundle.scp.css
+E:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\project.dll
+E:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\refint\project.dll
+E:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\project.pdb
+E:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\project.genruntimeconfig.cache
+E:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\ref\project.dll
+D:\ardaslan\mentor_ASP\project\bin\Debug\net6.0\appsettings.Development.json
+D:\ardaslan\mentor_ASP\project\bin\Debug\net6.0\appsettings.json
+D:\ardaslan\mentor_ASP\project\bin\Debug\net6.0\project.staticwebassets.runtime.json
+D:\ardaslan\mentor_ASP\project\bin\Debug\net6.0\project.exe
+D:\ardaslan\mentor_ASP\project\bin\Debug\net6.0\project.deps.json
+D:\ardaslan\mentor_ASP\project\bin\Debug\net6.0\project.runtimeconfig.json
+D:\ardaslan\mentor_ASP\project\bin\Debug\net6.0\project.dll
+D:\ardaslan\mentor_ASP\project\bin\Debug\net6.0\project.pdb
+D:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\project.csproj.AssemblyReference.cache
+D:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\project.GeneratedMSBuildEditorConfig.editorconfig
+D:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\project.AssemblyInfoInputs.cache
+D:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\project.AssemblyInfo.cs
+D:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\project.csproj.CoreCompileInputs.cache
+D:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\project.MvcApplicationPartsAssemblyInfo.cache
+D:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\project.RazorAssemblyInfo.cache
+D:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\project.RazorAssemblyInfo.cs
+D:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\staticwebassets.build.json
+D:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\staticwebassets.development.json
+D:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\scopedcss\bundle\project.styles.css
+D:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\scopedcss\projectbundle\project.bundle.scp.css
+D:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\project.dll
+D:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\refint\project.dll
+D:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\project.pdb
+D:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\project.genruntimeconfig.cache
+D:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\ref\project.dll
+D:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\staticwebassets\msbuild.project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\staticwebassets\msbuild.build.project.props
+D:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.project.props
+D:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.project.props
+D:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\staticwebassets.pack.json
+G:\ardaslan\mentor_ASP\project\bin\Debug\net6.0\appsettings.Development.json
+G:\ardaslan\mentor_ASP\project\bin\Debug\net6.0\appsettings.json
+G:\ardaslan\mentor_ASP\project\bin\Debug\net6.0\project.staticwebassets.runtime.json
+G:\ardaslan\mentor_ASP\project\bin\Debug\net6.0\project.exe
+G:\ardaslan\mentor_ASP\project\bin\Debug\net6.0\project.deps.json
+G:\ardaslan\mentor_ASP\project\bin\Debug\net6.0\project.runtimeconfig.json
+G:\ardaslan\mentor_ASP\project\bin\Debug\net6.0\project.dll
+G:\ardaslan\mentor_ASP\project\bin\Debug\net6.0\project.pdb
+G:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\project.csproj.AssemblyReference.cache
+G:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\project.GeneratedMSBuildEditorConfig.editorconfig
+G:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\project.AssemblyInfoInputs.cache
+G:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\project.AssemblyInfo.cs
+G:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\project.csproj.CoreCompileInputs.cache
+G:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\project.MvcApplicationPartsAssemblyInfo.cache
+G:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\project.RazorAssemblyInfo.cache
+G:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\project.RazorAssemblyInfo.cs
+G:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\staticwebassets.build.json
+G:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\staticwebassets.development.json
+G:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\scopedcss\bundle\project.styles.css
+G:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\scopedcss\projectbundle\project.bundle.scp.css
+G:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\project.dll
+G:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\refint\project.dll
+G:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\project.pdb
+G:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\project.genruntimeconfig.cache
+G:\ardaslan\mentor_ASP\project\obj\Debug\net6.0\ref\project.dll
